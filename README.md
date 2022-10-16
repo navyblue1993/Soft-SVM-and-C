@@ -10,4 +10,4 @@ With hard SVM, it is: y(wx+b) >= 1
 
 With c = 0 in soft SVM, it is: y(wx+b) >= -inf
 
-Check the SVM with C = 0.001 and C = 1 with linear seperable data, small C will make the accuracy worse.
+I check the graph with C = 0.001 and C = 1 with linear seperable data, small C will make the accuracy worse. Results could be checked on this repositories.
